@@ -1,10 +1,10 @@
 ## Project Setup
 
-### Clone the Repository
+- ### Clone the Repository
    git clone https://github.com/R0hin999/Api-Assign.git
 
-### Then Install Nodu modules
+- ### Install the Node modules
     npm install
 
-### Then run the project
+- ### Then run the project
     npm run dev
