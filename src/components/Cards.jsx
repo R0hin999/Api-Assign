@@ -55,7 +55,7 @@ function Cards({ data }) {
             onClick={downloadPdf}
           >
             <ArrowDownToLine color={"#4d4d4d"} />
-            Pdf Bill
+            Download Bill
           </button>
         </div>
       </div>
