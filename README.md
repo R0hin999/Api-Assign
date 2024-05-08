@@ -8,3 +8,5 @@
 
 - ### Then run the project
     npm run dev
+  
+- Open localhost:5173 on browser
